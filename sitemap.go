@@ -53,7 +53,7 @@ func main() {
 	password := strings.TrimSpace(fmt.Sprintf("%s", pw))
 
 	// connect to the database
-	db, err := sql.Open("mysql", fmt.Sprintf("root:x%v@%v/%v", password, dbServer, dbName))
+	db, err := sql.Open("mysql", fmt.Sprintf("%v:%v@%v/%v", dbName, password, dbServer, dbName))
 	checkErr(err)
 
 	// query
