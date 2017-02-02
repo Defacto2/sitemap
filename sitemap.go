@@ -1,4 +1,5 @@
 // sitemap.go - A site map generator for https://defacto2.net/detail/
+// © Ben Garrett
 //
 // References:
 // Wikipedia XML Sitemaps https://en.wikipedia.org/wiki/Site_map
