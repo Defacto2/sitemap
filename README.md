@@ -1,5 +1,5 @@
 # sitemap
-_A site map generator for [defacto2.net/d](https://defacto2.net/d/)_
+_A site map generator for [defacto2.net/f](https://defacto2.net/f/)_
 
 ![GitHub](https://img.shields.io/github/license/Defacto2/sitemap?style=flat-square)
 &nbsp;
